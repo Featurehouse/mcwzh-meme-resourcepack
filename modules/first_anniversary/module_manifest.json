@@ -1,0 +1,10 @@
+{
+    "name": "first_anniversary",
+    "type": "resource",
+    "description": "我们一周年啦！",
+    "author": "Lakejason0",
+    "classifier": [
+        "modified_resource",
+        "modified_language"
+    ]
+}
